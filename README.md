@@ -6,7 +6,7 @@ This project recreates the modern UI of Netflix including the hero banner, movie
 ---
 
 ## 🌐 Live Demo
-🔗 https://your-vercel-link.vercel.app/
+🔗 https://niteshlad.vercel.app/
 
 ---
 
@@ -31,6 +31,7 @@ This project recreates the modern UI of Netflix including the hero banner, movie
 ---
 
 ## 📂 Folder Structure
+
 Netflix-Clone/
 │
 ├── index.html
@@ -48,7 +49,8 @@ Netflix-Clone/
 ## 🚀 How to Run Locally
 
 1️⃣ Clone the repository
-git clone https://github.com/Nitesh-Lad/netflix-clone.git
+git clone[ https://github.com/Nitesh-Lad/netflix-clone.git
+](https://github.com/Nitesh-Lad/netflix_clone.git)
 
 2️⃣ Open the project folder
 
@@ -60,7 +62,6 @@ OR use VS Code Live Server extension.
 ---
 
 ## 📸 Screenshot
-Add your project screenshot below:
 
 <img width="1892" height="822" alt="netflix clone" src="https://github.com/user-attachments/assets/d2ff2afb-88e6-450b-a391-8b28b638ac0a" />
 
@@ -84,7 +85,7 @@ This project was created to practice frontend development and improve CSS layout
 ## 🙋‍♂️ Author
 **Nitesh Lad**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Nitesh-Lad
 
 ---
 
