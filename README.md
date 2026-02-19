@@ -37,14 +37,14 @@ Netflix-Clone/
 ├── index.html
 ├── style.css
 ├── images/
-│ ├── logo.png
-│ ├── banner.jpg
-│ ├── movie1.jpg
-│ ├── movie2.jpg
-│ └── more images...
+│   ├── logo.png
+│   ├── banner.jpg
+│   ├── movie1.jpg
+│   ├── movie2.jpg
+│   └── more-images...
+│
 └── README.md
 
----
 
 ## 🚀 How to Run Locally
 
