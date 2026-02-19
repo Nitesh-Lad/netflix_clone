@@ -32,6 +32,7 @@ This project recreates the modern UI of Netflix including the hero banner, movie
 
 ## 📂 Folder Structure
 
+```
 Netflix-Clone/
 │
 ├── index.html
@@ -44,6 +45,8 @@ Netflix-Clone/
 │   └── more-images...
 │
 └── README.md
+```
+
 
 
 ## 🚀 How to Run Locally
